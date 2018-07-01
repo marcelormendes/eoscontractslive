@@ -5,7 +5,10 @@ const initialModel = {
     id: null,
     name: null
   },
-  contractList: []
+  contractList: [],
+  tableRows: [],
+  tableList: [],
+  tableColumns: []
 }
 
 const state = {
